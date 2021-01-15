@@ -1,9 +1,9 @@
 ﻿<xml version="1.0" encoding="UTF-8">
 	<yml_catalog date="{date}">
 		<offers>
-			<offer id="111" available="true">
-				<price>1999</price>
-				<price_old>3999</price_old>
+			<offer id="333" available="true">
+				<price>300</price>
+				<price_old>400</price_old>
 				<category>Кастрюли</category>
 				<picture>https://cdn.the-village.ru/the-village.ru/post-cover/JSxikom0m3CPaZL9BokHeg-default.jpg</picture>
 				<picture>https://vogue.ua/cache/inline_990x/uploads/article-inline/31d/de2/873/5e4a873de231d.jpeg</picture>
@@ -19,9 +19,9 @@
 				<barcode>482999304545;482999887762</barcode>
 				<country_of_origin>Китай</country_of_origin>
 			</offer>
-			<offer id="222" available="true">
-				<price>2999</price>
-				<price_old>4999</price_old>
+			<offer id="444" available="true">
+				<price>100</price>
+				<price_old>200</price_old>
 				<category>Кастрюли</category>
 				<picture>https://cdn.the-village.ru/the-village.ru/post-cover/JSxikom0m3CPaZL9BokHeg-default.jpg</picture>
 				<picture>https://vogue.ua/cache/inline_990x/uploads/article-inline/31d/de2/873/5e4a873de231d.jpeg</picture>
