@@ -1,42 +1,525 @@
-﻿<xml version="1.0" encoding="UTF-8">
-	<yml_catalog date="{date}">
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2021-03-09 11:21">
+	<shop>
+		<name>KIO</name>
+		<company>KIO</company>
+		<currencies>
+			<currency id="UAH" rate="1.00" />
+			<currency id="USD" rate="28.50" />
+			<currency id="EUR" rate="33.50" />
+		</currencies>
+		<categories>
+			<category id="4658869">Барні стільці</category>
+			<category id="4627575">Дивани</category>
+			<category id="2798167">Журнальні столи</category>
+			<category id="4629249">Картини</category>
+			<category id="4627792">М&#039;які крісла</category>
+			<category id="105280">Настільні лампи</category>
+			<category id="2796732">Обідні столи</category>
+			<category id="4657833">Пуфи</category>
+			<category id="4647606">Свічники</category>
+			<category id="154084">Стільці для кухні</category>
+			<category id="4629178">Стелажі та консолі</category>
+			<category id="4629185">Тумби</category>
+		</categories>
 		<offers>
-			<offer id="333" available="true">
-				<price>300</price>
-				<price_old>400</price_old>
-				<category>Кастрюли</category>
-				<picture>https://cdn.the-village.ru/the-village.ru/post-cover/JSxikom0m3CPaZL9BokHeg-default.jpg</picture>
-				<picture>https://vogue.ua/cache/inline_990x/uploads/article-inline/31d/de2/873/5e4a873de231d.jpeg</picture>
-				<vendor>Nike</vendor>
-				<name lang="ru">название на русском</name>
-				<name lang="ua">название на украинском</name>
-				<description lang="ru">Описание на русском</description>
-				<description lang="ua">Описание на украинском</description>
-				<weight>555</weight>
-				<width>66</width>
-				<height>77</height>
-				<length>88</length>
-				<barcode>482999304545;482999887762</barcode>
-				<country_of_origin>Китай</country_of_origin>
+			<offer id="27819449" available="true">
+				<price>3200.00</price>
+				<price_promo>2880.00</price_promo>
+				<stock_quantity>0</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4657833</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27819449-103a148fd3615b69fe0a21a4c3df3cf6.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27819449-50a4fd82980fd5565be8d419e4b03e1f.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27819449-d42e918764b1a1686679494fa4a4605a.jpg</picture>
+				<name>Пуф квадратный PidVushko Pouf2 42х42 см серый</name>
+				<vendor>PidVushko</vendor>
+				<description>
+					<![CDATA[<p>Колір: Чорний</p><p>Матеріал: Метал, текстиль</p><p>Посадкова висота: 45 см</p><p>Довжина: 42 см</p><p>Ширина: 42 см</p><p>Висота: 45 см</p><p>Тип товару: Пуф</p><p>ДxШxВ: 420x420x450 мм</p>]]>
+				</description>
+				<param name="Материал корпуса" paramid="203982" valueid="2869441,2462802,2462790,2462784">Поролон,Фанера,Дерево,Металл</param>
+				<param name="Ширина" paramid="203706" valueid="2538721">42 см</param>
+				<param name="Глубина" paramid="203712" valueid="2538529">42 см</param>
+				<param name="Высота" paramid="203718" valueid="2538193">45 см</param>
+				<param name="Назначение" paramid="203700" valueid="2456046,2456040,2456034">Для прихожей,Для спальни,Для гостинной</param>
+				<param name="Вид" paramid="203688" valueid="2455980">Нераскладные</param>
+				<param name="Форма" paramid="203682" valueid="2455950">Квадратная</param>
+				<param name="Стиль" paramid="203343" valueid="2438001">Лофт</param>
+				<param name="Материал обивки" paramid="203337" valueid="2437839">Ткань</param>
+				<param name="Цвет" paramid="97094" valueid="673177">Серый + Черный</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6175">6 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней.]]>
+				</param>
 			</offer>
-			<offer id="444" available="true">
-				<price>100</price>
-				<price_old>200</price_old>
-				<category>Кастрюли</category>
-				<picture>https://cdn.the-village.ru/the-village.ru/post-cover/JSxikom0m3CPaZL9BokHeg-default.jpg</picture>
-				<picture>https://vogue.ua/cache/inline_990x/uploads/article-inline/31d/de2/873/5e4a873de231d.jpeg</picture>
-				<vendor>Nike</vendor>
-				<name lang="ru">название на русском</name>
-				<name lang="ua">название на украинском</name>
-				<description lang="ru">Описание на русском</description>
-				<description lang="ua">Описание на украинском</description>
-				<weight>555</weight>
-				<width>66</width>
-				<height>77</height>
-				<length>88</length>
-				<barcode>482999304545;482999887762</barcode>
-				<country_of_origin>Китай</country_of_origin>
+			<offer id="27819545" available="true">
+				<price>4900.00</price>
+				<price_promo>4410.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4657833</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27819545-45ea9fd5d99773e7b04a26eaf29ac97c.jpg</picture>
+				<name>Оттоманка Air 2 KINT Чорний 57х57х39 см</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>
+	Стільці з підлокотниками Air 2 - стиль, на перетині з практичністю.</p><p>
+	Стиль? Це дизайн, в який вкладено душу.</p><p>
+	Практичність? Це повністю відновлювальні матеріали. Текстиль, який знімається та переться.</p><p>
+	Колір: Чорний<br>Матеріал: Масив ясена</p><p>
+	Посадкова висота: 39 см (з м' якою частиною)</p><p>
+	Довжина: 57 см</p><p>
+	Ширина: 57 см</p><p>
+	Висота: 39 см</p><p>
+	Тип товару: Отоманка</p><p>
+	ДxШxВ: 570x570x390 мм</p>]]>
+				</description>
+				<param name="Ширина" paramid="203706" valueid="2538811">57 см</param>
+				<param name="Высота" paramid="203718" valueid="2538157">39 см</param>
+				<param name="Материал корпуса" paramid="203982" valueid="2462790">Дерево</param>
+				<param name="Назначение" paramid="203700" valueid="2456034">Для гостинной</param>
+				<param name="Вид" paramid="203688" valueid="2455980">Нераскладные</param>
+				<param name="Форма" paramid="203682" valueid="2455950">Квадратная</param>
+				<param name="Стиль" paramid="203343" valueid="2438001">Лофт</param>
+				<param name="Материал обивки" paramid="203337" valueid="2437839">Ткань</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Цвет" paramid="97094" valueid="532228">Черный</param>
+				<param name="Гарантия" paramid="20769" valueid="6175">6 месяцев</param>
+				<param name="Глубина" paramid="203712" >
+					<![CDATA[57 см]]>
+				</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней.]]>
+				</param>
+			</offer>
+			<offer id="27819576" available="true">
+				<price>4500.00</price>
+				<price_promo>4050.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4657833</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27819576-06549a260b57e5ce37a227202d409f4a.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27819576-f547bfeb2806373411507842cad82749.jpg</picture>
+				<name>Оттоманка Air 2 KINT Натуральний 57х57х39 см</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>
+	Стільці з підлокотниками Air 2 - стиль, на перетині з практичністю.</p><p>
+	Стиль? Це дизайн, в який вкладено душу.</p><p>
+	Практичність? Це повністю відновлювальні матеріали. Текстиль, який знімається та переться.</p><p>
+	Колір: Ясен<br>Матеріал: Масив ясена</p><p>
+	Посадкова висота: 39 см (з м' якою частиною)</p><p>
+	Довжина: 57 см</p><p>
+	Ширина: 57 см</p><p>
+	Висота: 39 см</p><p>
+	Тип товару: Отоманка</p><p>
+	ДxШxВ: 570x570x390 мм</p>]]>
+				</description>
+				<param name="Ширина" paramid="203706" valueid="2538811">57 см</param>
+				<param name="Высота" paramid="203718" valueid="2538157">39 см</param>
+				<param name="Материал корпуса" paramid="203982" valueid="2462790">Дерево</param>
+				<param name="Назначение" paramid="203700" valueid="2456046,2456040,2456034">Для прихожей,Для спальни,Для гостинной</param>
+				<param name="Вид" paramid="203688" valueid="2455980">Нераскладные</param>
+				<param name="Форма" paramid="203682" valueid="2455950">Квадратная</param>
+				<param name="Стиль" paramid="203343" valueid="2438001">Лофт</param>
+				<param name="Материал обивки" paramid="203337" valueid="2437839">Ткань</param>
+				<param name="Цвет" paramid="97094" valueid="579142">Серый</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6175">6 месяцев</param>
+				<param name="Глубина" paramid="203712" >
+					<![CDATA[57 см]]>
+				</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней.]]>
+				</param>
+			</offer>
+			<offer id="27820059" available="true">
+				<price>2500.00</price>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629185</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27820059-50ad1eb303a5acd2f637ba41d4648546.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27820059-cf559b31ae95825204fbb31a8d4faa77.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27820059-63347866193d86185a9279999c114404.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27820059-9d44866916fc8064ab33d60aa7fa8672.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27820059-59e88e115619f2bed0e0733ef0c7b2fd.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27820059-8d16a22a02505cea7621115746a1dfb3.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27820059-401edbabf9685fc405752c8fb9dfded0.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27820059-c520c6197db9aec25966e651dfd0f047.jpg</picture>
+				<name>Тумба модульная B-cube в стиле Лофт KINT  35х35 см</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Модульні куби b-cube—система для зберігання<br><br>Можуть комбінуватись в залежності від призначення. При вертикальному позицонуванні—стелаж. При горизонтальному—тумба або журнальний стіл, с поличкою для журналів та книжок. <br>Максимальна костомізація продукту.<br><br>Колір: Чорний</p><p>Тип товару: Стелаж</p><p>Матеріал: Метал</p><p>Глибина: 35 см</p><p>ДxШxВ: 350x350x350 мм</p>]]>
+				</description>
+				<param name="Тип" paramid="116138" valueid="1680084,915457,803106,766610">Книжная полка,Тумба,Органайзер для журналов,Офисная тумба</param>
+				<param name="Высота" paramid="111295" valueid="1368848">35 см</param>
+				<param name="Цвет" paramid="111288" valueid="915451">Черный</param>
+				<param name="Материал корпуса" paramid="111049" valueid="915415">Металл</param>
+				<param name="Ширина" paramid="111302" valueid="676573">35 см</param>
+				<param name="Глубина" paramid="111309" valueid="676552">35 см</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+			</offer>
+			<offer id="27826108" available="true">
+				<price>7900.00</price>
+				<price_promo>7110.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27826108-01921dd6a44717341675cbec4aeb5c19.jpg</picture>
+				<name>Стелаж Hash PLYWOOD в стиле Лофт KINT 1200x400x1800</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Стелаж hash (#). Дуже схожий на всім відомий хеш-тег.&nbsp;</p><p>Колір: Світло-коричневий</p><p>Тип товару: Стелаж</p><p>Матеріал: Фанера</p><p>Глибина: 40см</p><p>ДxШxВ: 1200x400x1800 мм</p>]]>
+				</description>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Ширина" paramid="111421" valueid="858642">1200 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Количество полок" paramid="115970" valueid="763790">4</param>
+				<param name="Материал каркаса" paramid="111028" valueid="763130">Металл</param>
+				<param name="Глубина" paramid="111379" valueid="763112">400 мм</param>
+				<param name="Цвет каркаса" paramid="111035" valueid="674731">Черный</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Материал полок" paramid="111042" >
+					<![CDATA[Фанера]]>
+				</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27826127" available="true">
+				<price>8900.00</price>
+				<price_promo>8010.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27826108-01921dd6a44717341675cbec4aeb5c19.jpg</picture>
+				<name>Стелаж Hash PLYWOOD в стиле Лофт KINT 1500x400x1800</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Стелаж hash (#). Дуже схожий на всім відомий хеш-тег.&nbsp;</p><p>Колір: Світло-коричневий</p><p>Тип товару: Стелаж</p><p>Матеріал: Фанера</p><p>Глибина: 40см</p><p>ДxШxВ: 1500x400x1800 мм</p>]]>
+				</description>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Ширина" paramid="111421" valueid="982872">1500 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Количество полок" paramid="115970" valueid="763790">4</param>
+				<param name="Материал каркаса" paramid="111028" valueid="763130">Металл</param>
+				<param name="Глубина" paramid="111379" valueid="763112">400 мм</param>
+				<param name="Цвет каркаса" paramid="111035" valueid="674731">Черный</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Материал полок" paramid="111042" >
+					<![CDATA[Фанера]]>
+				</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27826184" available="true">
+				<price>9900.00</price>
+				<price_promo>8910.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27826108-01921dd6a44717341675cbec4aeb5c19.jpg</picture>
+				<name>Стелаж Hash ASH в стиле Лофт KINT 1200x400x1800</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Стелаж hash (#). Дуже схожий на всім відомий хеш-тег.&nbsp;</p><p>Колір: Світло-коричневий</p><p>Тип товару: Стелаж</p><p>Матеріал:&nbsp;Масив ясена</p><p>Глибина: 40см</p><p>ДxШxВ: 1200x400x1800 мм</p>]]>
+				</description>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Ширина" paramid="111421" valueid="858642">1200 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Количество полок" paramid="115970" valueid="763790">4</param>
+				<param name="Материал каркаса" paramid="111028" valueid="763130">Металл</param>
+				<param name="Материал полок" paramid="111042" valueid="763118">Массив ясеня</param>
+				<param name="Глубина" paramid="111379" valueid="763112">400 мм</param>
+				<param name="Цвет каркаса" paramid="111035" valueid="674731">Черный</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27826186" available="true">
+				<price>10900.00</price>
+				<price_promo>9810.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27826108-01921dd6a44717341675cbec4aeb5c19.jpg</picture>
+				<name>Стелаж Hash ASH в стиле Лофт KINT 1500x400x1800</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Стелаж hash (#). Дуже схожий на всім відомий хеш-тег.&nbsp;</p><p>Колір: Світло-коричневий</p><p>Тип товару: Стелаж</p><p>Матеріал:&nbsp;Масив ясена</p><p>Глибина: 40см</p><p>ДxШxВ: 1500x400x1800 мм</p>]]>
+				</description>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Ширина" paramid="111421" valueid="982872">1500 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Количество полок" paramid="115970" valueid="763790">4</param>
+				<param name="Материал каркаса" paramid="111028" valueid="763130">Металл</param>
+				<param name="Материал полок" paramid="111042" valueid="763118">Массив ясеня</param>
+				<param name="Глубина" paramid="111379" valueid="763112">400 мм</param>
+				<param name="Цвет каркаса" paramid="111035" valueid="674731">Черный</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27842739" available="true">
+				<price>11900.00</price>
+				<price_promo>10710.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27842739-71991288d1d8cf8bfb46ca39fa1d91ba.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27842739-32e3c94559058145c7c55e42e8ceb7ca.jpg</picture>
+				<name>Стелаж дизайнерский Колос KINT Ясен 600x250x1800 мм</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Витончений і український, з чітко вираженою національною айдентикою.&nbsp;</p><p><br><br>Колір: Натуральний</p><p>Тип товару: Стелаж</p><p>Матеріал: Масив ясена</p><p>Глибина: 25см</p><p>ДxШxВ: 600x250x1800 мм</p>]]>
+				</description>
+				<param name="Количество полок" paramid="115970" valueid="2023246">12</param>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Материал каркаса" paramid="111028" valueid="837826">Дерево</param>
+				<param name="Глубина" paramid="111379" valueid="771938">250 мм</param>
+				<param name="Ширина" paramid="111421" valueid="771854">600 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Материал полок" paramid="111042" valueid="763118">Массив ясеня</param>
+				<param name="Цвет каркаса" paramid="111035" valueid="674745">Натуральный</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27842928" available="true">
+				<price>12900.00</price>
+				<price_promo>11610.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27842928-52cfbf4019169dce6d917a355096ed76.jpg</picture>
+				<name>Стелаж дизайнерский Колос KINT Світло-коричневий 600x250x1800 мм</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Витончений і український, з чітко вираженою національною айдентикою.&nbsp;</p><p><br><br>Колір:&nbsp;Світло-коричневий</p><p>Тип товару: Стелаж</p><p>Матеріал: Масив ясена</p><p>Глибина: 25см</p><p>ДxШxВ: 600x250x1800 мм</p>]]>
+				</description>
+				<param name="Количество полок" paramid="115970" valueid="2023246">12</param>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Материал каркаса" paramid="111028" valueid="837826">Дерево</param>
+				<param name="Глубина" paramid="111379" valueid="771938">250 мм</param>
+				<param name="Ширина" paramid="111421" valueid="771854">600 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Материал полок" paramid="111042" valueid="763118">Массив ясеня</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Цвет каркаса" paramid="111035" >
+					<![CDATA[Светло-коричневый]]>
+				</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27844088" available="true">
+				<price>12900.00</price>
+				<price_promo>11610.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27844088-cff03598ce8a2b17d7ca0f57d8fc2d6f.jpg</picture>
+				<name>Стелаж дизайнерский Колос KINT Темно-коричневий 600x250x1800 мм</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Витончений і український, з чітко вираженою національною айдентикою.&nbsp;</p><p><br><br>Колір:&nbsp;Темно-коричневий</p><p>Тип товару: Стелаж</p><p>Матеріал: Масив ясена</p><p>Глибина: 25см</p><p>ДxШxВ: 600x250x1800 мм</p>]]>
+				</description>
+				<param name="Цвет каркаса" paramid="111035" valueid="2023354">Темно-коричневый</param>
+				<param name="Количество полок" paramid="115970" valueid="2023246">12</param>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Материал каркаса" paramid="111028" valueid="837826">Дерево</param>
+				<param name="Глубина" paramid="111379" valueid="771938">250 мм</param>
+				<param name="Ширина" paramid="111421" valueid="771854">600 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Материал полок" paramid="111042" valueid="763118">Массив ясеня</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27844103" available="true">
+				<price>12900.00</price>
+				<price_promo>11610.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27844103-dd0df24f5dcce626b320ebd5670f3ec9.jpg</picture>
+				<name>Стелаж дизайнерский Колос KINT Чорний 600x250x1800 мм</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Витончений і український, з чітко вираженою національною айдентикою.&nbsp;</p><p><br><br>Колір:&nbsp;Чорний</p><p>Тип товару: Стелаж</p><p>Матеріал: Масив ясена</p><p>Глибина: 25см</p><p>ДxШxВ: 600x250x1800 мм</p>]]>
+				</description>
+				<param name="Количество полок" paramid="115970" valueid="2023246">12</param>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Материал каркаса" paramid="111028" valueid="837826">Дерево</param>
+				<param name="Глубина" paramid="111379" valueid="771938">250 мм</param>
+				<param name="Ширина" paramid="111421" valueid="771854">600 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Материал полок" paramid="111042" valueid="763118">Массив ясеня</param>
+				<param name="Цвет каркаса" paramid="111035" valueid="674731">Черный</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27844107" available="true">
+				<price>12900.00</price>
+				<price_promo>11610.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27844107-78f2c78c561f464aa45dcdb81f42c0d3.jpg</picture>
+				<name>Стелаж дизайнерский Колос KINT Сірий 600x250x1800 мм</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Витончений і український, з чітко вираженою національною айдентикою.&nbsp;</p><p><br><br>Колір:&nbsp;Сірий</p><p>Тип товару: Стелаж</p><p>Матеріал: Масив ясена</p><p>Глибина: 25см</p><p>ДxШxВ: 600x250x1800 мм</p>]]>
+				</description>
+				<param name="Количество полок" paramid="115970" valueid="2023246">12</param>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Цвет каркаса" paramid="111035" valueid="982848">Серый</param>
+				<param name="Материал каркаса" paramid="111028" valueid="837826">Дерево</param>
+				<param name="Глубина" paramid="111379" valueid="771938">250 мм</param>
+				<param name="Ширина" paramid="111421" valueid="771854">600 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Материал полок" paramid="111042" valueid="763118">Массив ясеня</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27844110" available="true">
+				<price>12900.00</price>
+				<price_promo>11610.00</price_promo>
+				<stock_quantity>100</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4629178</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27844110-084905721865e6d12fb9ca9a658c940f.jpg</picture>
+				<name>Стелаж дизайнерский Колос KINT Молочний 600x250x1800 мм</name>
+				<vendor>KINT</vendor>
+				<description>
+					<![CDATA[<p>Витончений і український, з чітко вираженою національною айдентикою.&nbsp;</p><p><br><br>Колір:&nbsp;Молочний</p><p>Тип товару: Стелаж</p><p>Матеріал: Масив ясена</p><p>Глибина: 25см</p><p>ДxШxВ: 600x250x1800 мм</p>]]>
+				</description>
+				<param name="Количество полок" paramid="115970" valueid="2023246">12</param>
+				<param name="Высота" paramid="111414" valueid="1210983">1800 мм</param>
+				<param name="Материал каркаса" paramid="111028" valueid="837826">Дерево</param>
+				<param name="Глубина" paramid="111379" valueid="771938">250 мм</param>
+				<param name="Ширина" paramid="111421" valueid="771854">600 мм</param>
+				<param name="Вид" paramid="116528" valueid="771788">Стеллажи</param>
+				<param name="Материал полок" paramid="111042" valueid="763118">Массив ясеня</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+				<param name="Цвет каркаса" paramid="111035" >
+					<![CDATA[Молочний]]>
+				</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней. Предоплата 50%.]]>
+				</param>
+			</offer>
+			<offer id="27927381" available="true">
+				<price>2400.00</price>
+				<price_promo>2160.00</price_promo>
+				<stock_quantity>0</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4657833</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27927381-6e8b930ec0fa4628403f6b19f7efa9db.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27927381-dbf3041b9839658463ae92abcc370fc8.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27927381-095f6bd26b1afb6d2c200b1d806f9e24.jpg</picture>
+				<name>Пуф квадратный PidVushko 45х45 см коричневый Mission 10</name>
+				<vendor>PidVushko</vendor>
+				<description>
+					<![CDATA[<p>Колір: Коричневий</p><p>Матеріал:&nbsp;Фанера, текстиль</p><p>Посадкова висота: 47см</p><p>Довжина: 45см</p><p>Ширина: 45см</p><p>Висота: 47 см</p><p>Тип товару: Пуф</p><p>ДxШxВ: 450x450x470 мм</p>]]>
+				</description>
+				<param name="Ширина" paramid="203706" valueid="2538739">45 см</param>
+				<param name="Глубина" paramid="203712" valueid="2538565">45 см</param>
+				<param name="Высота" paramid="203718" valueid="2538205">47 см</param>
+				<param name="Материал корпуса" paramid="203982" valueid="2462802,2462790">Фанера,Дерево</param>
+				<param name="Назначение" paramid="203700" valueid="2456046,2456040,2456034">Для прихожей,Для спальни,Для гостинной</param>
+				<param name="Вид" paramid="203688" valueid="2455980">Нераскладные</param>
+				<param name="Форма" paramid="203682" valueid="2455950">Квадратная</param>
+				<param name="Стиль" paramid="203343" valueid="2437989">Современный</param>
+				<param name="Материал обивки" paramid="203337" valueid="2437839">Ткань</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Цвет" paramid="97094" valueid="532158">Коричневый</param>
+				<param name="Гарантия" paramid="20769" valueid="6175">6 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней.]]>
+				</param>
+			</offer>
+			<offer id="27927389" available="true">
+				<price>2500.00</price>
+				<price_promo>2250.00</price_promo>
+				<stock_quantity>0</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4657833</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27927389-bccce857b42e817cdb0a89a4edf077d9.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27927389-45ccd1248b9d436a2afb3b60b65c2c00.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27927389-b01d34a58dc396dfc2250344bae377b4.jpg</picture>
+				<name>Пуф квадратный PidVushko 45х45 см желтый Trinity 18</name>
+				<vendor>PidVushko</vendor>
+				<description>
+					<![CDATA[<p>Колір: Жовтий;</p><p>Матеріал:&nbsp;Фанера, текстиль</p><p>Посадкова висота: 47см</p><p>Довжина: 45см</p><p>Ширина: 45см</p><p>Висота: 47 см</p><p>Тип товару: Пуф</p><p>ДxШxВ: 450x450x470 мм</p>]]>
+				</description>
+				<param name="Ширина" paramid="203706" valueid="2538739">45 см</param>
+				<param name="Глубина" paramid="203712" valueid="2538565">45 см</param>
+				<param name="Высота" paramid="203718" valueid="2538205">47 см</param>
+				<param name="Материал корпуса" paramid="203982" valueid="2462802,2462790">Фанера,Дерево</param>
+				<param name="Назначение" paramid="203700" valueid="2456046,2456040,2456034">Для прихожей,Для спальни,Для гостинной</param>
+				<param name="Вид" paramid="203688" valueid="2455980">Нераскладные</param>
+				<param name="Форма" paramid="203682" valueid="2455950">Квадратная</param>
+				<param name="Стиль" paramid="203343" valueid="2437989">Современный</param>
+				<param name="Материал обивки" paramid="203337" valueid="2437839">Ткань</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Цвет" paramid="97094" valueid="532130">Желтый</param>
+				<param name="Гарантия" paramid="20769" valueid="6175">6 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней.]]>
+				</param>
+			</offer>
+			<offer id="27927394" available="true">
+				<price>2600.00</price>
+				<price_promo>2340.00</price_promo>
+				<stock_quantity>0</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4657833</categoryId>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27927394-6cc27317cf5a80c856cb5f5913a2b24f.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27927394-28484ee7c477a0dd2ae4ac3b4e8065cd.jpg</picture>
+				<picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27927394-8f3c951c454cffa033df212a9e9d71a2.jpg</picture>
+				<name>Пуф квадратный PidVushko 45х45 см красно-оранжевый Icon 59</name>
+				<vendor>PidVushko</vendor>
+				<description>
+					<![CDATA[<p>Колір: Червоно-поморанчевий;</p><p>Матеріал:&nbsp;Фанера, текстиль</p><p>Посадкова висота: 47см</p><p>Довжина: 45см</p><p>Ширина: 45см</p><p>Висота: 47 см</p><p>Тип товару: Пуф</p><p>ДxШxВ: 450x450x470 мм</p>]]>
+				</description>
+				<param name="Ширина" paramid="203706" valueid="2538739">45 см</param>
+				<param name="Глубина" paramid="203712" valueid="2538565">45 см</param>
+				<param name="Высота" paramid="203718" valueid="2538205">47 см</param>
+				<param name="Материал корпуса" paramid="203982" valueid="2462802,2462790">Фанера,Дерево</param>
+				<param name="Назначение" paramid="203700" valueid="2456046,2456040,2456034">Для прихожей,Для спальни,Для гостинной</param>
+				<param name="Вид" paramid="203688" valueid="2455980">Нераскладные</param>
+				<param name="Форма" paramid="203682" valueid="2455950">Квадратная</param>
+				<param name="Стиль" paramid="203343" valueid="2437989">Современный</param>
+				<param name="Материал обивки" paramid="203337" valueid="2437839">Ткань</param>
+				<param name="Цвет" paramid="97094" valueid="805297">Красно-оранжевый</param>
+				<param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+				<param name="Гарантия" paramid="20769" valueid="6175">6 месяцев</param>
+				<param name="Доставка/Оплата" paramid="2019" >
+					<![CDATA[Товар на заказ. Срок изготовления и доставки от 5 дней.]]>
+				</param>
 			</offer>
 		</offers>
-	</yml_catalog>
-</xml>
+	</shop>
+</yml_catalog>
